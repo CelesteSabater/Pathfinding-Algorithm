@@ -11,6 +11,6 @@ Es un proyecto para implementar un Pathfinding Algorithm en Python usando el alg
 
 -Si desea reiniciar las posiciones iniciales y los muros pulse la tecla de escape.
 
---PROBLEMAS / BUGS CONOCIDOS--
+--PROBLEMAS CONOCIDOS--
 
 Soy consciente que el programa no es el más eficaz del mundo. Si la vida (o mi puesto de trabajo) me fuera en ello haría que el programa fuera más eficaz, desde el principio sabía que no sería el programa más rápido, quería que fuera fácil de hacer para experimentar cosas con el algoritmo A*, si desde el principio quisiera velocidad habría hecho el programa con C++ en vez de Python (ya que como todos sabemos Python no es el lenguaje más rápido para algoritmos complejos).
